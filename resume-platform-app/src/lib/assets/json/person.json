@@ -1,0 +1,342 @@
+[
+	{
+		"id": 1,
+		"firstname": "Leslie",
+		"lastname": "Abbot",
+		"role": "Co-Founder / CEO",
+		"imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+		"presentation": "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi.\n\n Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.\n\n Bibendum eu nulla feugiat justo, elit adipiscing. Ut tristique sit nisi lorem pulvinar. Urna, laoreet fusce nibh leo. Dictum et et et sit. Faucibus sed non gravida lectus dignissim imperdiet a.\n\n Dictum magnis risus phasellus vitae quam morbi. Quis lorem lorem arcu, metus, egestas netus cursus. In.",
+		"presentationList": {
+			"1": "Quis elit egestas venenatis mattis dignissim.",
+			"2": "Cras cras lobortis vitae vivamus ultricies facilisis tempus.",
+			"3": "Orci in sit morbi dignissim metus diam arcu pretium."
+		},
+		"badges": [{ "1": "HTML", "2": "CSS", "3": "Typescript" }],
+		"currentjob": "Senior Developer at Polestar Group",
+		"cjdescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"experienceList": [
+			{
+				"title": "Backend Developer",
+				"company": "Belid Lightining Group",
+				"years": "2021 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGLt75GjEps0Q/company-logo_200_200/0/1610545251036?e=2147483647&v=beta&t=982uJzFL1GUsD7hlY7rAU3eriTcs5qBrAGms_adhKu0"
+			},
+			{
+				"title": "Fullstack Developer",
+				"company": "Ikea IT Group",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://cached-images.bonnier.news/gcs/di-bilder-prod/mly/8f83f29b-53dd-4f8d-a33d-b83b72d3fd95.jpeg?downsize=4096:*"
+			},
+			{
+				"title": "Backend Developer",
+				"company": "Atea",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.dporganizer.com/wp-content/uploads/2018/05/22100954/Atea-logga2.jpg"
+			}
+		],
+		"currentEducation": "Master in Computer Science",
+		"cedescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"educationList": [
+			{
+				"title": "Bsc Computer Science",
+				"school": "Chalmers",
+				"years": "2021 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.chalmers.se/SiteCollectionImages/Logotyper/Chalmers%20logotyp/AvancezChalmersU_black_centered.png"
+			},
+			{
+				"title": "Bsc Backend Developer",
+				"school": "Yrgo",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://yrgo.se/uploads/2019/12/yrgo.png"
+			},
+			{
+				"title": "Bsc Frontend Engineer",
+				"school": "NBI Handelsakademin",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.nbi-handelsakademin.se/wp-content/uploads/Primary_1.png"
+			}
+		],
+		"contactList": [
+			{
+				"name": "Brad Wilshire",
+				"role": "admin",
+				"title": "CTO",
+				"company": "Queenslab",
+				"mail": "brad.wilshire@queenslab.se",
+				"telephone": "0733-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1930&q=80"
+			},
+			{
+				"name": "Amanda Wilson",
+				"role": "admin",
+				"title": "CEO",
+				"company": "Polestar AB",
+				"mail": "amanda.wilson@polestar.se",
+				"telephone": "0705-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"firstname": "Hector",
+		"lastname": "Adams",
+		"role": "VP, Marketing",
+		"imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+		"presentation": "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi.\n\n Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.\n\n Bibendum eu nulla feugiat justo, elit adipiscing. Ut tristique sit nisi lorem pulvinar. Urna, laoreet fusce nibh leo. Dictum et et et sit. Faucibus sed non gravida lectus dignissim imperdiet a.\n\n Dictum magnis risus phasellus vitae quam morbi. Quis lorem lorem arcu, metus, egestas netus cursus. In.",
+		"presentationList": {
+			"1": "Samma sak som går här igen",
+			"2": "Nästa samma sak som går här",
+			"3": "Tredje samam sak spom går här"
+		},
+		"badges": [{ "1": "C#", "2": "Node", "3": "Express", "4": "Firebase" }],
+		"currentjob": "Developer at GBG Group",
+		"cjdescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"experienceList": [
+			{
+				"title": "Fullstack Developer",
+				"company": "Polestar Group",
+				"years": "2021 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Polestar_logo_2020.svg/1200px-Polestar_logo_2020.svg.png"
+			},
+			{
+				"title": "Fullstack Developer",
+				"company": "Ikea IT Group",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://cached-images.bonnier.news/gcs/di-bilder-prod/mly/8f83f29b-53dd-4f8d-a33d-b83b72d3fd95.jpeg?downsize=4096:*"
+			},
+			{
+				"title": "Backend Developer",
+				"company": "Lynk and Co",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://owscd-lynkco.azureedge.net/-/media/lynkco-global-portal/master/may-2021/default-link-logo.ashx?h=630&iar=0&w=1200&rev=-1&hash=F489322EF2724EE0852DB09566F567B2"
+			}
+		],
+		"currentEducation": "Master in IT Science",
+		"cedescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"eduTitle": "Bsc Computer Science",
+		"educationList": [
+			{
+				"title": "Bsc Computer Science",
+				"school": "Chalmers",
+				"years": "2021 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.chalmers.se/SiteCollectionImages/Logotyper/Chalmers%20logotyp/AvancezChalmersU_black_centered.png"
+			},
+			{
+				"title": "Bsc Backend Developer",
+				"school": "Yrgo",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://yrgo.se/uploads/2019/12/yrgo.png"
+			},
+			{
+				"title": "Bsc Frontend Engineer",
+				"school": "NBI Handelsakademin",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.nbi-handelsakademin.se/wp-content/uploads/Primary_1.png"
+			}
+		],
+		"contactList": [
+			{
+				"name": "Brad Wilshire",
+				"role": "admin",
+				"title": "CTO",
+				"company": "Queenslab",
+				"mail": "brad.wilshire@queenslab.se",
+				"telephone": "0733-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1930&q=80"
+			},
+			{
+				"name": "Amanda Wilson",
+				"role": "admin",
+				"title": "CEO",
+				"company": "Polestar AB",
+				"mail": "amanda.wilson@polestar.se",
+				"telephone": "0705-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+			}
+		]
+	},
+
+	{
+		"id": 3,
+		"firstname": "Angela",
+		"lastname": "Beaver",
+		"role": "Chief Strategy Officer",
+		"imageUrl": "https://images.unsplash.com/photo-1501031170107-cfd33f0cbdcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+		"presentation": "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi.\n\n Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.\n\n Bibendum eu nulla feugiat justo, elit adipiscing. Ut tristique sit nisi lorem pulvinar. Urna, laoreet fusce nibh leo. Dictum et et et sit. Faucibus sed non gravida lectus dignissim imperdiet a.\n\n Dictum magnis risus phasellus vitae quam morbi. Quis lorem lorem arcu, metus, egestas netus cursus. In.",
+		"presentationList": {
+			"1": "Samma sak som går här igen",
+			"2": "Nästa samma sak som går här",
+			"3": "Tredje samam sak spom går här"
+		},
+		"badges": [{ "1": "Typescript", "2": "Kotlin", "3": "Svelte-kit", "4": "Tailwind" }],
+		"currentjob": "Developer at GBG Group",
+		"cjdescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"experienceList": [
+			{
+				"title": "Fullstack Developer",
+				"company": "Volvo Cars",
+				"years": "2021 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/1200px-Volvo-Iron-Mark-Black.svg.png"
+			},
+			{
+				"title": "Fullstack Developer",
+				"company": "Soflex",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://cdn.dribbble.com/users/393931/screenshots/11098092/media/f3fa1231c355d7d3b9618583be923d25.png?compress=1&resize=400x300"
+			},
+			{
+				"title": "Backend Developer",
+				"company": "Mobilunity",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.thelogocreative.co.uk/wp-content/uploads/Mobilunity-Logo-Design-min.jpg"
+			}
+		],
+		"currentEducation": "Master in IT Science",
+		"cedescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"eduTitle": "Bsc Computer Science",
+		"educationList": [
+			{
+				"title": "Bsc Computer Science",
+				"school": "Chalmers",
+				"years": "2000 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.chalmers.se/SiteCollectionImages/Logotyper/Chalmers%20logotyp/AvancezChalmersU_black_centered.png"
+			},
+			{
+				"title": "Bsc Backend Developer",
+				"school": "Yrgo",
+				"years": "2003 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://yrgo.se/uploads/2019/12/yrgo.png"
+			},
+			{
+				"title": "Bsc Frontend Engineer",
+				"school": "NBI Handelsakademin",
+				"years": "2005 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.nbi-handelsakademin.se/wp-content/uploads/Primary_1.png"
+			}
+		],
+		"contactList": [
+			{
+				"name": "Brad Wilshire",
+				"role": "admin",
+				"title": "CTO",
+				"company": "Queenslab",
+				"mail": "brad.wilshire@queenslab.se",
+				"telephone": "0733-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1930&q=80"
+			},
+			{
+				"name": "Amanda Wilson",
+				"role": "admin",
+				"title": "CEO",
+				"company": "Polestar AB",
+				"mail": "amanda.wilson@polestar.se",
+				"telephone": "0705-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"firstname": "Yvette",
+		"lastname": "Blanchard",
+		"role": "Studio Artist",
+		"imageUrl": "https://images.unsplash.com/photo-1506980595904-70325b7fdd90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+		"presentation": "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi.\n\n Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna.\n\n Bibendum eu nulla feugiat justo, elit adipiscing. Ut tristique sit nisi lorem pulvinar. Urna, laoreet fusce nibh leo. Dictum et et et sit. Faucibus sed non gravida lectus dignissim imperdiet a.\n\n Dictum magnis risus phasellus vitae quam morbi. Quis lorem lorem arcu, metus, egestas netus cursus. In.",
+		"presentationList": {
+			"1": "Samma sak som går här igen",
+			"2": "Nästa samma sak som går här",
+			"3": "Tredje samam sak spom går här"
+		},
+		"badges": [{ "1": "C#", "2": "Node", "3": "Express", "4": "Firebase" }],
+		"currentjob": "Developer at GBG Group",
+		"cjdescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"experienceList": [
+			{
+				"title": "Fullstack Developer",
+				"company": "Ception",
+				"years": "2021 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://static.wixstatic.com/media/72c0b2_9417bad731e543578911f6110f4e9a2d~mv2.jpg/v1/fill/w_924,h_476,al_c,q_90/72c0b2_9417bad731e543578911f6110f4e9a2d~mv2.jpg"
+			},
+			{
+				"title": "Fullstack Developer",
+				"company": "Nintendo IT",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://logoeps.com/wp-content/uploads/2012/02/nintendo-logo-vector.jpg"
+			},
+			{
+				"title": "Backend Developer",
+				"company": "Sony",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.sony.com/image/sonyview1?fmt=png&wid=1200"
+			}
+		],
+		"currentEducation": "Master in IT Science",
+		"cedescription": "Workcation is a property rental website. Etiam ullamcorper massa viverra consequat, consectetur id nulla tempus. Fringilla egestas justo massa purus sagittis malesuada.",
+		"eduTitle": "Bsc Computer Science",
+		"educationList": [
+			{
+				"title": "Bsc Computer Science",
+				"school": "Chalmers",
+				"years": "2006 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.chalmers.se/SiteCollectionImages/Logotyper/Chalmers%20logotyp/AvancezChalmersU_black_centered.png"
+			},
+			{
+				"title": "Bsc Backend Developer",
+				"school": "Handelsakademin",
+				"years": "2020 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://www.nbi-handelsakademin.se/wp-content/uploads/Primary_1.png"
+			},
+			{
+				"title": "Bsc Frontend Engineer",
+				"school": "EC Utbildnig",
+				"years": "2019 Q1 - Q3",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt nunc ipsum tempor purus vitae id. Morbi in vestibulum nec varius. Et diam cursus quis sed purus nam.",
+				"imgUrl": "https://s3-eu-west-1.amazonaws.com/wb-bolt-production/account_157/career/a9dd05893757fd39cd2df31438a69823e82ca09f-n1fezb.png"
+			}
+		],
+		"contactList": [
+			{
+				"name": "Brad Wilshire",
+				"role": "admin",
+				"title": "CTO",
+				"company": "Queenslab",
+				"mail": "brad.wilshire@queenslab.se",
+				"telephone": "0733-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1930&q=80"
+			},
+			{
+				"name": "Amanda Wilson",
+				"role": "admin",
+				"title": "CEO",
+				"company": "Polestar AB",
+				"mail": "amanda.wilson@polestar.se",
+				"telephone": "0705-451234",
+				"imgUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+			}
+		]
+	}
+]
